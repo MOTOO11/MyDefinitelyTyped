@@ -3,8 +3,6 @@
 // Definitions by: @clark-stevenson @draconisNoctis
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 
-/// <reference path="pixi.d.ts" />
-
 declare class Phaser {
 
     static VERSION: string;
