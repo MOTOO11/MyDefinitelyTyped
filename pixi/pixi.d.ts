@@ -3,7 +3,7 @@
 // Definitions by: Mat Groves <https://github.com/GoodBoyDigital>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 
-/// <reference path="webgl.d.ts" />
+/// <reference path="./webgl.d.ts" />
 
 declare module PIXI {
 
